@@ -8,3 +8,6 @@ This is a toy project utilizing __OpenAI API__.</br>
 It generates an image from scratch from the text description provided by a user.</br>
 
 🔗 Link: [https://ai-image-generator-sujeongji.vercel.app](https://ai-image-generator-sujeongji.vercel.app/) </br>
+
+## Demo
+<img width="700" alt="demo" src="https://github.com/bruadarach/AI-image-generator/assets/55401378/c5a8d55d-3d42-4702-adb2-009fa6956bf2"/>
